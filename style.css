@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    text-align: center;
+    /* border: 1px solid black; */
+    margin-top: 2px;
+}
+h2{
+    margin-bottom: 0.5rem;
+}
+button{
+    margin-bottom: 0.5rem;
+}
+.box{
+    height: 8rem;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 1rem;
+    border: 1px solid black;
+}
